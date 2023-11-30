@@ -1,0 +1,75 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    font-size: 15px;
+}
+
+.bg-putih {
+    background-color: #fff;
+}
+
+.jumbotron {
+    border-radius: 2px;
+}
+
+.mt-jumbotron {
+    margin-top: -20px;
+}
+
+/* .p-f-detail {
+    font-family: courier new;
+} */
+
+.banner img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.card img{
+    height: 230px;
+}
+
+.w-font-nav {
+    font-family: 'Inconsolata', monospace;
+    font-size: 28px;
+}
+
+.font-atas {
+    font-family: 'Inconsolata', monospace;
+}
+
+.brands img {
+    height: 100px;
+    width: 150px;
+
+}
+
+.brands .card {
+    border-radius: 3px;
+}
+
+.brands-hover:hover {
+	box-shadow: 0 0.5rem 0 rgba(241, 36, 36, 0.726) !important;
+}
+
+.product .card {
+    border-radius: 0;
+}
+
+.button-w-product {
+    width: 80% !important;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+    text-decoration: none;
+}
+
+.breadcrumb .active {
+    font-weight: bold;
+    color: black;
+}
+
+.w-i-h {
+    font-size: 20px;
+}
